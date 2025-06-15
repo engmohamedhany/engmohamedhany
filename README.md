@@ -75,7 +75,7 @@ GPA: 3.5 / 4.0
 |-----------|----------------|---------|
 | **E-Commerce Backend** | Laravel backend for online shop with payments & roles | Laravel, MySQL, Passport |
 | **Real-Time Chat App** | Internal team chat using WebSockets & Laravel Echo | Laravel, Echo, Pusher |
-| **Task Manager** | User-based task app with role access | Laravel, Vue.js |
+| **Task Manager** | User-based task app with role access | Laravel, React |
 | **API Gateway** | REST API for integration between internal/external services | Lumen, Laravel, Postman |
 
 ---
