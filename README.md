@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Mohamed Hany**, a highly motivated **Full Stack Developer** with strong skills in **Laravel (PHP)** and **Vue.js**, currently pursuing a **B.Sc. in Artificial Intelligence**.
+I’m **Mohamed Hany**, a highly motivated **Full Stack Developer** with strong skills in **Laravel (PHP)** and **React**, currently pursuing a **B.Sc. in Artificial Intelligence**.
 
 ✅ I build modern, fast, and secure web applications  
 ✅ Focused on performance, clean code, and scalability  
@@ -34,7 +34,7 @@ I’m **Mohamed Hany**, a highly motivated **Full Stack Developer** with strong 
 ### 💻 Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FC4949?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
