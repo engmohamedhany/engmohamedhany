@@ -9,7 +9,13 @@
   <img src="https://img.shields.io/badge/Location-Egypt-black?style=flat"/>
   <img src="https://img.shields.io/badge/Hire%20Me-Freelancer-informational?style=flat&logo=upwork"/>
 </p>
+<div align="center">
 
+[![MasterHead](https://github-readme-streak-stats.herokuapp.com?user=engmohamedhany&theme=radical&hide_border=true&background=0D1117&sideNums=5D3FD3&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9B9B9B)](https://git.io/streak-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=5D3FD3&center=true&vCenter=true&width=600&lines=10x+Backend+Performance;AI-Powered+Solutions;Enterprise+Scalability;Data-Driven+Architecture)](https://git.io/typing-svg)
+
+</div>
 ---
 
 ## 👨‍💻 About Me
